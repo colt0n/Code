@@ -3,6 +3,7 @@ filetype plugin indent on
 syntax on
 set number
 set hlsearch
+set incsearch
 set wildmenu
 set ignorecase
 set smartcase
