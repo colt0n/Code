@@ -14,6 +14,7 @@ set expandtab
 
 inoremap td <esc>
 nnoremap ; :
+nnoremap : ;
 cnoremap td <c-u><esc> 
 vnoremap td <esc>
 vnoremap ; :
