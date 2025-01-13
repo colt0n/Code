@@ -1,6 +1,8 @@
+language en_US
 set nocompatible
 filetype plugin indent on
 syntax on
+colorscheme delek
 set number
 set hlsearch
 set incsearch
@@ -18,3 +20,6 @@ nnoremap : ;
 cnoremap td <c-u><esc> 
 vnoremap td <esc>
 vnoremap ; :
+
+vnoremap tt :TranslateVisual<CR>
+vnoremap tr :TranslateReplace<CR>
