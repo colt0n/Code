@@ -23,3 +23,4 @@ vnoremap ; :
 
 vnoremap tt :TranslateVisual<CR>
 vnoremap tr :TranslateReplace<CR>
+nnoremap tc :TranslateClear<CR>
